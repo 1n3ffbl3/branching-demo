@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # master branch
-=======
-# date branch
->>>>>>> date
+
 
 88888 
 
